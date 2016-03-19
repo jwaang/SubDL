@@ -8,9 +8,9 @@ My mom likes to watch movies with Chinese subtitles but does not know how to dow
 ![](https://zippy.gfycat.com/MeekImportantAlligator.gif)
 
 # Requirements
-Mechanize
+Mechanize  
 Python 2.7
 
 # Tasks
-[ ] Multiple subtitle sites
+[ ] Multiple subtitle sites  
 [ ] Multiple languages

@@ -17,6 +17,6 @@ Mechanize
 Python 2.7
 
 # Tasks
-[ ] Let user pick what subtitle to download based off of votes on yifysubtitles.com
+[ ] Let user pick what subtitle to download based off of votes on yifysubtitles.com  
 [ ] Multiple subtitle sites  
 [ ] Multiple languages
